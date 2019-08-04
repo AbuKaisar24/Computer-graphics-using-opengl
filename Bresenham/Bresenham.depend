@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564369494 source:e:\graphicslab\bresenham\bresenham.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+

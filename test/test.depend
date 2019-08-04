@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564512122 source:e:\graphicslab\test\test.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+

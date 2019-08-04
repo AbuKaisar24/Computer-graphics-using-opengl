@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560694056 source:e:\graphicslab\lab1\one.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+
+1560176532 source:e:\graphicslab\lab1\two.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+

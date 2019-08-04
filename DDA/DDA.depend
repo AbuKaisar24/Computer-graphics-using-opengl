@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564375045 source:e:\graphicslab\dda\dda.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

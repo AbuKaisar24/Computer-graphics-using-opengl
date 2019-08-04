@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561357478 source:e:\graphicslab\lab4\flower.cpp
+	<math.h>
+	<GL/glut.h>
+
